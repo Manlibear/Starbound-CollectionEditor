@@ -72,9 +72,7 @@ namespace StarboundCollectionEditor
            
 
             MetroFramework.MetroMessageBox.Show(this, "Export complete");
-
-            lCollection.Clear();
-            PopulateTree();
+            
 
 
         }
